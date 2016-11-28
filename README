@@ -1,0 +1,18 @@
+Scale
+
+Make your way to the end goal by using the power of scale to your advantage.
+
+Controls:
+Left Click: Move towards the mouse
+Right Click: Jump
+Scroll Wheel: scale
+Shift click: Teleport to mouse (Use only if stuck in world geometry.
+This is the honour system)
+
+Technology Used:
+Python, Pygame, Pymunk
+
+Installation and running:
+Install Python http://www.python.org/download/
+Install Pygame http://www.pygame.org/download.shtml
+run main.py
