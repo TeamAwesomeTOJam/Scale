@@ -12,6 +12,10 @@ This is the honour system)
 Technology Used:
 Python, Pygame, Pymunk
 
+Unfortunatly the pymunk shared library included is only compiled for 32 bit.
+If anyone can find an old pymunk source (version < 4 I think) it would be apprecieated.
+For windows you must install 32 bit python and pygame.
+
 Installation and running:
 Install Python http://www.python.org/download/
 Install Pygame http://www.pygame.org/download.shtml
